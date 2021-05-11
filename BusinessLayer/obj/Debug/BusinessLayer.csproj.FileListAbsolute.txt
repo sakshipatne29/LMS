@@ -1,0 +1,75 @@
+D:\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\BusinessLayer\obj\Debug\BusinessLayer.pdb

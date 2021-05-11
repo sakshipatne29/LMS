@@ -1,0 +1,830 @@
+D:\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+D:\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+D:\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+D:\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+D:\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+D:\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+D:\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+D:\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+D:\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+D:\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+D:\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+D:\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+D:\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+D:\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+D:\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+D:\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+D:\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+D:\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+D:\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+D:\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SPRINT_2\WebApi_LMS\bin\Owin.dll
+D:\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+D:\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\OneDrive\Desktop\Sprin2\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Owin.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+D:\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\HP\OneDrive\Desktop\SPRINT\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 Nishu New\SPRINT_2 N\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\mehra\Downloads\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2 (New Himanshu)~\SPRINT_2 (1)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\WebApi_LMS.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Owin.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\WebGrease.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\DataLayer.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\DataLayer.dll.config
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Cors.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.csproj.CopyComplete
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.dll
+C:\Users\DELL\Desktop\LMS Sprint 1\SPRINT_2(Skshi Newwwwwwwwwww)\SPRINT_2\WebApi_LMS\obj\Debug\WebApi_LMS.pdb

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MVC_LMS.Models.Student_Progress>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Students Progress Report</h2>
+
+
+<table class="table" style="background-color:lightgreen" border="2px">
+    <tr style="border:solid">
+        <th >
+            @Html.DisplayNameFor(model => model.UserID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prog_status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Test_scores)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Certi_status)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prog_status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Test_scores)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Certi_status)
+            </td>
+            
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,67 @@
+﻿@model MVC_LMS.Models.Cours
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Student Enrolled In</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+    </dl>
+</div>
+
+@using (Ajax.BeginForm("Assign", "Course", new AjaxOptions { UpdateTargetId = "assign" }))
+{
+    <div id="assign"></div>
+    <ol>
+        <li>
+            
+            @Html.Label("Confirm CourseID")
+            @Html.TextBox("txtCourseid", (Object)ViewBag.Courseid)
+        </li>
+        <li>
+            @Html.Label("Username")
+            @Html.TextBox("txtUsername")
+        </li>  
+    </ol>
+
+    <button>Click Here to assign</button>
+
+}
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

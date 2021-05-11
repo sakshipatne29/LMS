@@ -1,0 +1,188 @@
+﻿@*<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title - My ASP.NET Application</title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Learning Management System", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    @if (Session["loggedIn"] != null)
+                    {
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        <li>@Html.ActionLink("Course", "Index", "StudentCourse")</li>
+                        <li>@Html.ActionLink("Progress", "Index", "Progress")</li>
+                        <li>@Html.ActionLink("Take Test", "Index", "TakeTest")</li>
+                        <li>@Html.ActionLink("Certificate", "Index", "Certificate")</li>
+                    </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="navbar-right">@Html.ActionLink("Logout", "Logout", "Login")</li>
+                            <li class="navbar-right">@Html.ActionLink("Hello, " + Session["username"].ToString(), "Index", "Home")</li>
+                        </ul>
+                    }
+
+                    else
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="navbar-right">@Html.ActionLink("Login", "Index", "Login")</li>
+                            </ul>
+                            }
+                    </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application LEARNING MANAGEMENT SYSTEM</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+    </html>*@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Template/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Template/css/style.css" rel="stylesheet" />
+    <link href="~/Template/css/slick.css" rel="stylesheet" />
+    <link href="~/Template/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Template/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/Template/css/default.css" rel="stylesheet" />
+    <link href="~/Template/css/jquery.nice-number.min.css" rel="stylesheet" />
+    <link href="~/Template/css/responsive.css" rel="stylesheet" />
+    <link href="~/Template/css/nice-select.css" rel="stylesheet" />
+    <link href="~/Template/css/font-awesome.min.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header id="header-part">
+        <div class="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 col-md-10 col-sm-9 col-8">
+                        <nav class="navbar navbar-expand-lg">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                                <span class="icon-bar"></span>
+                            </button>
+
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                @if (Session["loggedIn"] != null)
+                                {
+                                    <ul class="navbar-nav mr-auto">
+
+                                        <li class="nav-item">
+                                            <a class="active" href="index-2.html">Home</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="courses.html">About</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("About", "About", "Home")</li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="events.html">Contact</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="teachers.html">Course</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Course", "Index", "StudentCourse")</li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="blog.html">Progress</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Progress", "Index", "Progress")</li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="shop.html">Take Test</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Take Test", "Index", "TakeTest")</li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="contact.html">Certificate</a>
+                                            <ul class="sub-menu">
+                                                <li>@Html.ActionLink("Certificate", "Index", "Certificate")</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sub-menu">
+                                        <li class="navbar-right">@Html.ActionLink("Logout", "Logout", "Login")</li>
+                                        <li class="navbar-right">@Html.ActionLink("Hello, " + Session["username"].ToString(), "Index", "Home")</li>
+                                    </ul>
+
+                                }
+                                else
+                                {
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li class="navbar-right">@Html.ActionLink("Login", "Index", "Login")</li>
+                                    </ul>
+                                }
+                            </div>
+
+                        </nav> <!-- nav -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application LEARNING MANAGEMENT SYSTEM</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
+
+
+
+

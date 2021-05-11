@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVC_LMS.Models.Cours>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Courses List</h2>
+
+<p>
+    @Html.ActionLink("Add Course", "Create")
+</p>
+<table class="table" style="background-color:lightgreen" border="2px">
+    <tr style="border:solid">
+        <th>
+            @Html.DisplayNameFor(model => model.CourseID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.ActionLink("Update Course", "Edit", new { id = item.CourseID }) |
+                @Html.ActionLink("Assign Course", "Details", new { id = item.CourseID }) |
+                @Html.ActionLink("Delete Course", "Delete", new { id = item.CourseID })
+            </td>
+        </tr>
+    }
+
+</table>
